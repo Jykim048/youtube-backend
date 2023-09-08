@@ -38,6 +38,6 @@ public class Channel {
     @JoinColumn(name="id")
     private Member member;
 
-    // 외래키 생성 or Member 엔티티의 기본키와 맵핑
+    // 외래키 생성 or Member 엔티티의 기본키와 맵핑.
 
 }
